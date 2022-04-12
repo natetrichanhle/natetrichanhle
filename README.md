@@ -12,7 +12,7 @@ You can use the website to generate badges: https://shields.io/ if you prefer
 </p>
 
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp6192889.jpg" alt="banner" border="0" width="800">
+  <img src="https://art.ngfiles.com/images/862000/862029_matthewlopz_j-street.png?f1553883309" alt="banner" border="0" width="800">
   </p>
   
 <!-- Your About Me Bio -->
