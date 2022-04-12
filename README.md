@@ -12,7 +12,7 @@ You can use the website to generate badges: https://shields.io/ if you prefer
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/PhQ5JpX/maxresdefault2.jpg" alt="banner" border="0" width="800">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapercave.com%2F1920x1080-lofi-aesthetic-wallpapers&psig=AOvVaw1vtnev9KWfGM_3RSn-SuUd&ust=1649818110782000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCOiAsefBjfcCFQAAAAAdAAAAABAO" alt="banner" border="0" width="800">
   </p>
   
 <!-- Your About Me Bio -->
