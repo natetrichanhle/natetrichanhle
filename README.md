@@ -16,7 +16,12 @@ You can use the website to generate badges: https://shields.io/ if you prefer
   </p>
   
 <!-- Your About Me Bio -->
-I'm a hard-working, loyal, and self-motivated developer who believes work is integral to my overall happiness. I'm a problem-solving enthusiast who's highly driven, eager to learn and grow, and I take my job seriously. Other than programming, I play 🎮 video games, watch anime, read a lot of 📚 books, and I journal daily. I love collaborating with my peers on projects so feel free to follow me on GitHub and connect with me on LinkedIn!
+I'm a persistent, energetic, and self-motivated developer who believes work is integral to my overall happiness. I'm a problem-solving enthusiast who's highly driven, eager to learn and grow, and I take my job seriously. Other than programming, I play 🎮 video games, watch anime, read a lot of 📚 books, and I journal daily. I love collaborating with my peers on projects so feel free to follow me on GitHub and connect with me on LinkedIn!
+
+Languages: [HTML5, CSS3, JavaScript, Python3, Java]
+Databases: [MySQL, NoSQL, SQLite, MongoDB, Django, API]
+Libraries / Frameworks: [React, JQuery, npm, Mongoose, Apache Tomcat, Bcrypt, socket.io], [Node.js, Express.js, Flask, Spring Boot, Spring MVC, Bootstrap]
+Software: [VSCode, Miro, Trello, Postman, Spring Tool Suite, JSP, Spring Data-JPA, Git]
 
 &nbsp;
 
