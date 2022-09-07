@@ -16,12 +16,14 @@ You can use the website to generate badges: https://shields.io/ if you prefer
   </p>
   
 <!-- Your About Me Bio -->
-I'm a persistent, energetic, and self-motivated developer who believes work is integral to my overall happiness. I'm a problem-solving enthusiast who's highly driven, eager to learn and grow, and I take my job seriously. Other than programming, I play 🎮 video games, watch anime, read a lot of 📚 books, and I journal daily. I love collaborating with my peers on projects so feel free to follow me on GitHub and connect with me on LinkedIn!
+My name is Nate Trichanh, and I’m a persistent, energetic, and self-motivated individual passionate about programming. I’m a problem-solving enthusiast who’s highly driven and eager to learn and grow. I’m a very ambitious person who is disciplined and adaptable in any given situation. I love to collaborate with my peers around me, and I understand my responsibilities when handed a task. I am very versatile in my craft as I am proficient in three tech stacks: Python, Java, and MERN (MongoDB, Express.js, React.js, Node.js), and fluent in the fundamental HTML, CSS, and Javascript. Besides programming, I enjoy self-development, such as reading, journaling, and working on my health. In my free time, I play video games, catch up on my favorite tv-series or anime, and hang out with my friends. Feel free to explore my portfolio on GitHub and connect with me on LinkedIn!
 
-Languages: [HTML5, CSS3, JavaScript, Python3, Java]
-Databases: [MySQL, NoSQL, SQLite, MongoDB, Django, API]
-Libraries / Frameworks: [React, JQuery, npm, Mongoose, Apache Tomcat, Bcrypt, socket.io], [Node.js, Express.js, Flask, Spring Boot, Spring MVC, Bootstrap]
-Software: [VSCode, Miro, Trello, Postman, Spring Tool Suite, JSP, Spring Data-JPA, Git]
+Languages: [HTML, CSS, Javascript(ES5/ES6), Java, Python] 
+Databases: [MySQL, NoSQL, MongoDB, Django] 
+Libraries: [React, JQuery, npm, Mongoose, Apache Tomcat, Bcrypt] 
+Frameworks: [Node.js, Express.js, Flask, Spring Boot, Spring MVC, Spring Data JPA, Bootstrap, REST API] 
+Technologies: [VSCode, Miro, Trello, Postman, Spring Tool Suite, JSP, Git]
+
 
 &nbsp;
 
