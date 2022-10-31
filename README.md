@@ -74,10 +74,10 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 </p>
 
 <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=natetrichanhle&show_icons=true&theme=omni&line_height=27" >
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natetrichanhle&theme=omni&hide=html,css">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=natetrichanhle&show_icons=true&theme=tokyonight&line_height=27" >
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natetrichanhle&theme=tokyonight&hide=html,css">
   </p>
   <p align="center">
-   <img src="https://activity-graph.herokuapp.com/graph?username=natetrichanhle&theme=high-contrast&area=true" width="800">
+   <img src="https://activity-graph.herokuapp.com/graph?username=natetrichanhle&theme=tokyo-night&area=true" width="800">
   </p>
 
