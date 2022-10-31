@@ -20,8 +20,8 @@ My name is Nate Trichanh, and I’m a persistent, energetic, and self-motivated 
 
 Languages: [HTML, CSS, Javascript(ES5/ES6), Java, Python] 
 Databases: [MySQL, NoSQL, MongoDB, Django] 
-Libraries: [React, JQuery, npm, Mongoose, Apache Tomcat, Bcrypt] 
-Frameworks: [Node.js, Express.js, Flask, Spring Boot, Spring MVC, Spring Data JPA, Bootstrap, REST API] 
+Libraries: [React, Redux, JQuery, npm, Mongoose, Apache Tomcat, Bcrypt] 
+Frameworks: [Node.js, Express.js, Stripe, Flask, Spring Boot, Spring MVC, Spring Data JPA, Bootstrap, REST API] 
 Technologies: [VSCode, Miro, Trello, Postman, Spring Tool Suite, JSP, Git]
 
 
