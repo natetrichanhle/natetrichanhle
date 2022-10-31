@@ -78,6 +78,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natetrichanhle&theme=omni&hide=html,css">
   </p>
   <p align="center">
-   <img src="https://activity-graph.herokuapp.com/graph?username=natetrichanhle&theme=high-contrast" width="800">
+   <img src="https://activity-graph.herokuapp.com/graph?username=natetrichanhle&theme=nightowl" width="800">
   </p>
 
